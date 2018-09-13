@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sms Test</string>
+    <string name="setting">Settings</string>
+    <string name="version">Version</string>
+</resources>
